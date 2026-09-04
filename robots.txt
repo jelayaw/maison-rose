@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maison-rose-cleaning.netlify.app/sitemap.xml
