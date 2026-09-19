@@ -4,6 +4,22 @@ Maison Rose Cleaning Co. is a fictional luxury residential cleaning company webs
 
 The project was designed and developed from the ground up as a responsive, multi-page website focused on elegant design, usability, accessibility, performance, and foundational SEO.
 
+## 🌐 Live Demo
+
+[View Maison Rose Cleaning Co. Live](https://maison-rose-cleaning.netlify.app/)
+
+## 🖥️ Project Preview
+
+![Maison Rose Cleaning Co. website showcase](screenshots/maison-rose-showcase.png)
+
+### Original Website Screenshots
+
+![Maison Rose home page](screenshots/maison-rose-home.png)
+
+![Maison Rose services page](screenshots/maison-rose-services.png)
+
+![Maison Rose request a quote page](screenshots/maison-rose-quote.png)
+
 ## Features
 
 - Responsive multi-page website
